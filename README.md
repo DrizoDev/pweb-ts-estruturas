@@ -1,6 +1,7 @@
 # Atividade: Estruturas em TypeScript
 
 Aluno(a): Adriano Moura Dantas da Silva
+
 Disciplina: Programação Web
 
 ## Exercícios
