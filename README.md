@@ -1,6 +1,6 @@
 # Atividade: Estruturas em TypeScript
 
-Aluno(a): Seu Nome Completo
+Aluno(a): Adriano Moura Dantas da Silva
 Disciplina: Programação Web
 
 ## Exercícios
@@ -13,4 +13,4 @@ Disciplina: Programação Web
 
 ## Site publicado
 
-https://SEU-USUARIO.github.io/pweb-ts-estruturas/
+https://drizodev.github.io/pweb-ts-estruturas/
